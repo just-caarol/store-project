@@ -1,0 +1,30 @@
+@import url("./media/cartMedia.css");
+@import url("./media/basketMedia.css");
+@import url("./media/productMedia.css");
+@import url("./media/farmerMedia.css");
+@import url("./media/createReviewMedia.css");
+@import url("./media/sidebarMedia.css");
+@import url("./media/hamburgerMedia.css");
+
+@media (max-width: 600px) {
+
+  .top-nav .grocery-stand,
+  .top-nav .products-link,
+  .top-nav .farmers-link {
+    display: none;
+  }
+
+  .top-nav .hamburger-menu-trigger {
+    display: block;
+  }
+
+  .hamburger-menu-items .grocery-stand-logo {
+    width: 18px;
+    height: 18px;
+  }
+
+  .button.btn-plus,
+  .button.btn-minus {
+    margin: 0;
+  }
+}

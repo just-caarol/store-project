@@ -1,0 +1,16 @@
+@media (max-width: 600px) {
+  .sidebar-menu-items-list .sidebar-item {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .sidebar-menu-items-list .sidebar-item-picture-and-price {
+    margin-bottom: 1rem;
+  }
+}
+
+@media (max-width: 360px) {
+  .close-sidebar .view-basket {
+    justify-content: start;
+  }
+}

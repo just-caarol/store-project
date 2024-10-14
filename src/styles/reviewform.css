@@ -1,0 +1,71 @@
+.create-review-page {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.create-review-title {
+  font-size: 30px;
+  margin-top: 10px;
+}
+
+.product-name {
+  color: #000;
+}
+
+.form {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  font-size: 18px;
+}
+
+.form-row {
+  display: flex;
+  align-items: baseline;
+  flex-direction: row;
+  margin: 20px 0;
+  font-size: 18px;
+}
+
+.form-row label {
+  margin: 0 20px;
+}
+
+.form-row input {
+  min-width: 280px;
+  font-size: 18px;
+  padding: 5px;
+}
+
+.form-row textarea {
+  min-width: 280px;
+  min-height: 200px;
+  font-size: 18px;
+  padding: 5px;
+}
+
+.form-row button {
+  background-color: #b45c0f;
+  border: 2px solid #b45c0f;
+  color: #fff;
+}
+
+.form-row a {
+  color: #000;
+  background-color: #e6ebf0;
+  border: 2px solid #a6a6a6;
+}
+
+.btn-form {
+  text-decoration: none;
+  margin: 0 20px;
+  padding: 2px;
+  width: 150px;
+  height: 45px;
+  cursor: pointer;
+  text-align: center;
+  font-size: 18px;
+  border-radius: 50px;
+}

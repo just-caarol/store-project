@@ -1,0 +1,33 @@
+.card-farmers {
+  padding: 1rem;
+  background: white;
+  display: flex;
+  flex-direction: column;
+  height: 200px;
+  text-align: center;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  box-shadow: 0 0 20px #e6ebf0;
+  font-size: 1.1rem;
+}
+
+.btn-view {
+  border: 1px solid #6d784d;
+  background-color: white;
+  color: #6d784d;
+  border-radius: 2.3rem;
+  width: 100%;
+  text-decoration: none;
+  font-size: 0.9rem;
+  font-family: inherit;
+  text-align: center;
+  margin: 15px 20px;
+}
+
+.btn-view:hover {
+  transition: transform 0.2s ease;
+  transform: scale(1.2);
+  background-color: #6d784d;
+  color: white;
+}

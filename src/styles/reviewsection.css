@@ -1,0 +1,40 @@
+.page-element {
+  position: relative;
+}
+
+.page-element-title {
+  font-size: 22px;
+  margin-left: 0;
+  margin-top: 0;
+  margin-right: 10px;
+}
+
+.page-section {
+  position: sticky;
+  margin-top: 20px;
+  width: 100%;
+}
+
+.section-content {
+  padding: 5px 0;
+}
+
+.btn-review {
+  text-decoration: none;
+  border: 2px solid #b45c0f;
+  color: #b45c0f;
+  display: inline-flex;
+  width: 170px;
+  height: 40px;
+  text-align: center;
+  justify-content: center;
+  border-radius: 50px;
+  font-size: 16px;
+  font-weight: 500;
+  padding: 2px;
+}
+
+.btn-review:hover {
+  background-color: #b45c0f;
+  color: #fff;
+}

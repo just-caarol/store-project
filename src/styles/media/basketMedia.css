@@ -1,0 +1,7 @@
+@media (max-width: 600px) {
+
+  .sidebar-menu .basket-summary,
+  .sidebar-menu .empty-basket {
+    font-size: 16px;
+  }
+}

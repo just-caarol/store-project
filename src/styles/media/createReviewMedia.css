@@ -1,0 +1,34 @@
+@media (max-width: 600px) {
+  .create-review-page .form-row {
+    flex-direction: column;
+    margin-bottom: 0;
+  }
+
+  .create-review-page .form-row:last-child {
+    flex-direction: row;
+    margin: 20px 0;
+  }
+
+  .create-review-page .form-row:last-child a,
+  .create-review-page .form-row:last-child button {
+    align-items: center;
+    display: flex;
+    font-size: 16px;
+    justify-content: center;
+    margin: 0;
+    width: 120px;
+  }
+
+  .create-review-page .form-row:last-child a {
+    order: 2;
+    margin-right: 20px;
+  }
+
+  .create-review-page .form-row:last-child button {
+    order: 2;
+  }
+
+  .create-review-page .form-row label {
+    margin: 0;
+  }
+}

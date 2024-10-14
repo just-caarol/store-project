@@ -1,0 +1,33 @@
+.farmer-page {
+  position: relative;
+  height: 850px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.farmer-page-title {
+  margin-bottom: 20px;
+}
+
+.farmer-bio .page-subtitle {
+  font-weight: 600;
+}
+
+.farmer-bio {
+  line-height: 1.5;
+}
+
+.company-details {
+  font-weight: 400;
+}
+
+.description {
+  font-size: 18px;
+  color: #676767;
+  max-width: 850px;
+}
+
+.farmer-products-title {
+  font-size: 22px;
+  margin-top: 30px;
+}

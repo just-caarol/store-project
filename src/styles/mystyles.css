@@ -1,0 +1,111 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+@import url("./core.css");
+@import url("./media.css");
+@import url("./sidebar.css");
+@import url("./appnav.css");
+@import url("./filterbuttons.css");
+@import url("./buttons.css");
+@import url("./reviewsection.css");
+@import url("./reviewform.css");
+@import url("./toast.css");
+@import url("./backlink.css");
+@import url("./errorboundary.css");
+
+@import url("./home.css");
+@import url("./productcard.css");
+@import url("./productpage.css");
+@import url("./farmers.css");
+@import url("./farmerpage.css");
+@import url("./cartpage.css");
+@import url("./hamburger.css");
+
+/* ======================================== */
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+  color: #333333;
+  line-height: 1.9;
+  letter-spacing: 1px;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  min-width: 320px;
+}
+
+.page-title {
+  padding-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.link {
+  color: #6d784d;
+  font-size: 18px;
+}
+
+.no-items-message {
+  width: 1200px;
+  margin: 20px auto;
+}
+
+.showing-message {
+  border-bottom: 1px solid;
+  width: fit-content;
+  margin-top: 20px;
+}
+
+
+/* * * * * * * * * * * * * * * * * * * * *
+ *
+ * Loading Spinner
+ *
+ * * * * * * * * * * * * * * * * * * * * */
+
+.container.loading {
+  filter: blur(5px);
+  pointer-events: none;
+}
+
+.spinner::after {
+  content: "";
+  z-index: 999;
+  width: 150px;
+  height: 150px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  translate: -50% -50%;
+  border-radius: 50%;
+  border: 20px solid transparent;
+  border-bottom-color: hsl(201, 7%, 63%);
+  animation: spin infinite 1.25s ease-in;
+  mix-blend-mode: multiply;
+}
+
+.spinner::before {
+  content: "";
+  z-index: 999;
+  width: 150px;
+  height: 150px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  translate: -50% -50%;
+  border-radius: 50%;
+  border: 20px solid transparent;
+  border-top-color: hsl(201, 7%, 63%);
+  animation: spin infinite 2s ease-in-out;
+  mix-blend-mode: multiply;
+}
+
+@keyframes spin {
+  to {
+    rotate: 360deg;
+  }
+}

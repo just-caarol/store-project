@@ -1,0 +1,26 @@
+.Toastify__toast-container {
+  width: 310px;
+  top: -8px;
+  text-align: center;
+}
+
+.Toastify__toast-icon {
+  position: absolute;
+  top: 37px;
+  left: 10px;
+}
+
+.Toastify__close-button {
+  position: absolute;
+  top: 37px;
+  right: 10px;
+  color: #000;
+}
+
+.Toastify__toast-theme--colored.Toastify__toast--success {
+  background-color: #f2f9ea;
+}
+
+.Toastify__toast-theme--colored.Toastify__toast--error {
+  background-color: #f8d7da;
+}
