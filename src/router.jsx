@@ -5,7 +5,7 @@ import { Cart } from "./pages/cart/Cart";
 import { Farmer } from "./pages/farmers/Farmer";
 import { Farmers } from "./pages/farmers/Farmers";
 import { Home } from "./pages/Home";
-import { NewComment } from "./pages/NewComment";
+import { NewReview } from "./pages/NewReview";
 import { Product } from "./pages/products/Product";
 import { Products } from "./pages/products/Products";
 import { buildQueryString } from "./utils/url";
@@ -74,7 +74,7 @@ export const router = createBrowserRouter([
           },
           {
             path: ":productId/reviews/new",
-            element: <NewComment />,
+            element: <NewReview />,
 
             loader: async ({ params, request: { signal } }) => {
               const product = await fetch(
