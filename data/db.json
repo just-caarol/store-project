@@ -1,0 +1,410 @@
+{
+  "products": [
+    {
+      "farmerId": 4,
+      "id": 1,
+      "name": "Lemons",
+      "category": "fruit",
+      "price": "16.00",
+      "picture": "/foodPictures/lemon.jpg"
+    },
+    {
+      "farmerId": 4,
+      "id": 2,
+      "name": "Tomatoes",
+      "category": "vegetables",
+      "price": "13.99",
+      "picture": "/foodPictures/tomatoes.jpg"
+    },
+    {
+      "farmerId": 5,
+      "id": 3,
+      "name": "Bananas",
+      "category": "fruit",
+      "price": "12.99",
+      "picture": "/foodPictures/bananas.jpg"
+    },
+    {
+      "farmerId": 3,
+      "id": 4,
+      "name": "Green Apples",
+      "category": "fruit",
+      "price": "19.99",
+      "picture": "/foodPictures/greenapples.jpg"
+    },
+    {
+      "farmerId": 2,
+      "id": 5,
+      "name": "Broccolis",
+      "category": "vegetables",
+      "price": "6.99",
+      "picture": "/foodPictures/broccoli.jpg"
+    },
+    {
+      "farmerId": 1,
+      "id": 6,
+      "name": "Eggs",
+      "category": "dairy",
+      "price": "9.99",
+      "picture": "/foodPictures/eggs.jpg"
+    },
+    {
+      "farmerId": 3,
+      "id": 7,
+      "name": "Apricots",
+      "category": "fruit",
+      "price": "18.00",
+      "picture": "/foodPictures/apricot.jpg"
+    },
+    {
+      "farmerId": 6,
+      "id": 8,
+      "name": "Red Peppers",
+      "category": "vegetables",
+      "price": "15.00",
+      "picture": "/foodPictures/redpepper.jpg"
+    },
+    {
+      "farmerId": 4,
+      "id": 9,
+      "name": "Grapes",
+      "category": "fruit",
+      "price": "17.50",
+      "picture": "/foodPictures/grape.jpg"
+    },
+    {
+      "farmerId": 7,
+      "id": 10,
+      "name": "Garlic",
+      "category": "vegetables",
+      "price": "2.99",
+      "picture": "/foodPictures/garlic.jpg"
+    },
+    {
+      "farmerId": 7,
+      "id": 11,
+      "name": "Raspberries",
+      "category": "fruit",
+      "price": "29.99",
+      "picture": "/foodPictures/raspberry.jpg"
+    },
+    {
+      "farmerId": 7,
+      "id": 12,
+      "name": "Bread",
+      "category": "bakery",
+      "price": "6.50",
+      "picture": "/foodPictures/bread.jpg"
+    },
+    {
+      "farmerId": 7,
+      "id": 13,
+      "name": "Cucumbers",
+      "category": "vegetables",
+      "price": "13.99",
+      "picture": "/foodPictures/cucumber.jpg"
+    },
+    {
+      "farmerId": 7,
+      "id": 14,
+      "name": "Beef",
+      "category": "meat",
+      "price": "55.00",
+      "picture": "/foodPictures/beef.jpg"
+    },
+    {
+      "farmerId": 7,
+      "id": 15,
+      "name": "Pears",
+      "category": "fruit",
+      "price": "14.50",
+      "picture": "/foodPictures/pear.jpg"
+    },
+    {
+      "farmerId": 4,
+      "id": 16,
+      "name": "Oranges",
+      "category": "fruit",
+      "price": "28.99",
+      "picture": "/foodPictures/oranges.jpg"
+    },
+    {
+      "farmerId": 2,
+      "id": 17,
+      "name": "Eggplants",
+      "category": "vegetables",
+      "price": "15.90",
+      "picture": "/foodPictures/eggplant.jpg"
+    },
+    {
+      "farmerId": 7,
+      "id": 18,
+      "name": "Cheese",
+      "category": "dairy",
+      "price": "64.90",
+      "picture": "/foodPictures/cheese.jpg"
+    },
+    {
+      "farmerId": 7,
+      "id": 19,
+      "name": "Red apples",
+      "category": "fruit",
+      "price": "12.50",
+      "picture": "/foodPictures/redapple.jpg"
+    },
+    {
+      "farmerId": 1,
+      "id": 20,
+      "name": "Chicken drumsticks",
+      "category": "meat",
+      "price": "33.99",
+      "picture": "/foodPictures/chicken.jpg"
+    },
+    {
+      "farmerId": 7,
+      "id": 21,
+      "name": "Blueberries",
+      "category": "fruit",
+      "price": "12.50",
+      "picture": "/foodPictures/blueberry.jpg"
+    },
+    {
+      "farmerId": 3,
+      "id": 22,
+      "name": "Pomegranates",
+      "category": "fruit",
+      "price": "15.99",
+      "picture": "/foodPictures/pomegranate.jpg"
+    },
+    {
+      "farmerId": 7,
+      "id": 23,
+      "name": "Bagels",
+      "category": "bakery",
+      "price": "8.50",
+      "picture": "/foodPictures/bagel.jpg"
+    },
+    {
+      "farmerId": 7,
+      "id": 24,
+      "name": "Milk",
+      "category": "dairy",
+      "price": "9.00",
+      "picture": "/foodPictures/milk.jpg"
+    },
+    {
+      "farmerId": 7,
+      "id": 25,
+      "name": "Potatoes",
+      "category": "vegetables",
+      "price": "7.99",
+      "picture": "/foodPictures/potatoes.jpg"
+    },
+    {
+      "farmerId": 7,
+      "id": 26,
+      "name": "Butter",
+      "category": "dairy",
+      "price": "14.00",
+      "picture": "/foodPictures/butter.jpg"
+    },
+    {
+      "farmerId": 7,
+      "id": 27,
+      "name": "Onions",
+      "category": "vegetables",
+      "price": "6.20",
+      "picture": "/foodPictures/onion.jpg"
+    },
+    {
+      "farmerId": 4,
+      "id": 28,
+      "name": "Avocados",
+      "category": "fruit",
+      "price": "9.99",
+      "picture": "/foodPictures/avocado.jpg"
+    },
+    {
+      "farmerId": 7,
+      "id": 29,
+      "name": "Pumpkins",
+      "category": "fruit",
+      "price": "11.99",
+      "picture": "/foodPictures/pumpkin.jpg"
+    },
+    {
+      "farmerId": 7,
+      "id": 30,
+      "name": "Strawberries",
+      "category": "fruit",
+      "price": "16.99",
+      "picture": "/foodPictures/strawberry.jpg"
+    }
+  ],
+  "farmers": [
+    {
+      "id": 1,
+      "name": "Happy Hen",
+      "email": "happyHene@gmail.biz",
+      "website": "happyhen.org",
+      "description": "Our mission is to provide fresh, tasty and healthy eggs. We raise animals on our farm, where they have free range, fresh mountain water, clean air and healthy plant feed from our own crops. We offer premium products at a reasonable price. "
+    },
+    {
+      "id": 2,
+      "name": "Good Veggie",
+      "email": "goodveggie@yahoo.org",
+      "website": "goodveggie.org",
+      "description": "We deal with wholesale and retail sale of certified organic vegetables. Fertile soils on our farm makes our vegetables exceptional: they have an extraordinary taste and aroma."
+    },
+    {
+      "id": 3,
+      "name": "Fruitful Farm",
+      "email": "fruitfulfarm@google.org",
+      "website": "fruitfulfarm.org",
+      "description": "We guarantee year-round access to fresh fruits. Our products have an extraordinary taste - they are healthy, full of flavor and nutritional value."
+    },
+    {
+      "id": 4,
+      "name": "Italian Fruit Flavors",
+      "email": "italianfruit@google.org",
+      "website": "italianfruit.org",
+      "description": "Using many years of experience, we create healthy products, full of flavor and nutritional value. We do not use preservatives, we make sure that our products are always fresh and enjoy a good reputation among customers."
+    },
+    {
+      "id": 5,
+      "name": "Canarian Bananas",
+      "email": "canarianbananas@google.org",
+      "website": "canarianbananas.org",
+      "description": "We offer the highest quality products at a reasonable price. By choosing our bananas you have a guarantee of high quality of the product, as well as fully preserved nutritional and taste values."
+    },
+    {
+      "id": 6,
+      "name": "Hungarian Taste",
+      "email": "HungarianTaste@google.gmail.org",
+      "website": "HungarianTaste.org",
+      "description": "We create healthy products, full of flavor and nutritional value. We use only natural ingredients. Our products will satisfy even the most demanding customer."
+    },
+    {
+      "id": 7,
+      "name": "Good Goods from Poland",
+      "email": "goodgoodsfromPoland@gmail.org",
+      "website": "goodgoodsfrompoland.org",
+      "description": "All products we offer are of Polish origin. Our offer is very wide. We provide fresh fruit and vegetables. We also specialize in the sale of raw meat. Some time ago we introduced baked goods to our assortment, which we produce ourselves in our company. We use only natural ingredients. Our products are of the highest quality."
+    }
+  ],
+  "reviews": [
+    {
+      "productId": "1",
+      "id": 1,
+      "name": "Adam",
+      "email": "adam@gardner.io",
+      "body": "Delivered green. Completely inedible, even after a few days."
+    },
+    {
+      "productId": "1",
+      "id": 2,
+      "name": "Joana",
+      "email": "joana@jo.biz",
+      "body": "Overripe. With brown spots."
+    },
+    {
+      "productId": "1",
+      "id": 3,
+      "name": "Pawel",
+      "email": "pablo@onit.com",
+      "body": "Fresh and tasty."
+    },
+    {
+      "productId": "1",
+      "id": 4,
+      "name": "Antonina",
+      "email": "antonia@onit.com",
+      "body": "Fresh."
+    },
+    {
+      "productId": "1",
+      "id": 5,
+      "name": "Tomasz",
+      "email": "tomi@onit.com",
+      "body": "Full of flavor."
+    },
+    {
+      "productId": "2",
+      "id": 6,
+      "name": "Michal",
+      "email": "misiek@onet.pol",
+      "body": "Tasty, good quality."
+    },
+    {
+      "productId": "2",
+      "id": 7,
+      "name": "John",
+      "email": "johnny@jahoo.com",
+      "body": "The tomatoes seem unripe."
+    },
+    {
+      "productId": "3",
+      "id": 8,
+      "name": "Sophie",
+      "email": "sophie@op.pl",
+      "body": "Unfortunately the bananas were already rotten and soft."
+    },
+    {
+      "productId": "3",
+      "id": 9,
+      "name": "Jolanta",
+      "email": "jolka@op.pl",
+      "body": "Very tasty. I highly recommend it!"
+    },
+    {
+      "productId": "9",
+      "id": 10,
+      "name": "Eva",
+      "email": "eva@wp.com",
+      "body": "The grapes were darkened and with numerous damages."
+    },
+    {
+      "productId": "3",
+      "id": 11,
+      "name": "Kasia",
+      "email": "sdjbskjcbj@op.pldc",
+      "body": "Ugly :("
+    },
+    {
+      "productId": "3",
+      "id": 12,
+      "name": "Kaja",
+      "email": "kaja@banan.op",
+      "body": "I like it!"
+    },
+    {
+      "productId": "8",
+      "id": 13,
+      "name": "Bill Gates",
+      "email": "bill.gates@gatesfoundation.org",
+      "body": "This is awesome! Well done."
+    }
+  ],
+  "categories": [
+    {
+      "value": "fruit",
+      "label": "FRUIT"
+    },
+    {
+      "value": "vegetables",
+      "label": "VEGETABLES"
+    },
+    {
+      "value": "dairy",
+      "label": "DAIRY"
+    },
+    {
+      "value": "bakery",
+      "label": "BAKERY"
+    },
+    {
+      "value": "meat",
+      "label": "MEAT"
+    }
+  ]
+}
