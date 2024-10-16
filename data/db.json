@@ -147,7 +147,7 @@
     {
       "farmerId": 7,
       "id": 19,
-      "name": "Red apples",
+      "name": "Red Apples",
       "category": "fruit",
       "price": "12.50",
       "picture": "/foodPictures/redapple.jpg"
@@ -155,7 +155,7 @@
     {
       "farmerId": 1,
       "id": 20,
-      "name": "Chicken drumsticks",
+      "name": "Chicken Drumsticks",
       "category": "meat",
       "price": "33.99",
       "picture": "/foodPictures/chicken.jpg"
@@ -286,7 +286,7 @@
     },
     {
       "id": 7,
-      "name": "Good Goods from Poland",
+      "name": "Good Goods From Poland",
       "email": "goodgoodsfromPoland@gmail.org",
       "website": "goodgoodsfrompoland.org",
       "description": "All products we offer are of Polish origin. Our offer is very wide. We provide fresh fruit and vegetables. We also specialize in the sale of raw meat. Some time ago we introduced baked goods to our assortment, which we produce ourselves in our company. We use only natural ingredients. Our products are of the highest quality."
