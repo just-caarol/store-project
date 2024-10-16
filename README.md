@@ -49,16 +49,35 @@ A user can control the number of products in the cart by removing or adding prod
 
 ## Setup
 
-To run this project, clone this repo to your desktop using:
+There are two folders in this app: the `data` folder contains the code for the fake API and the `app` folder contains all the code needed to run the app including CSS files for all the styling.
+
+Firstly you need to clone repository to your local machine.
 
 ```
 git clone https://github.com/just-caarol/store-project.git
 ```
 
-and install it locally using npm:
+#### data directory
+
+This is the place where API data belongs.
+It is built on the json-server package - a tool using for quickly building fake APIs.
+
+Follow the steps below:
 
 ```
-$ cd <store-project-directory>
+$ cd <data-directory>
+$ npm install (to install all the dependencies)
+$ npm run dev (to start the API)
+```
+
+#### app directory
+
+This is the place where all the files of frontend app are located.
+
+Follow the steps below:
+
+```
+$ cd <app-directory>
 $ npm install (to install all the dependencies)
 $ npm run dev (to start the vite server)
 ```
