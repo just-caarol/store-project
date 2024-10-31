@@ -137,3 +137,9 @@ Images and icons were used to create this app only for educational/practice purp
 - shopping cart - [font awesome](https://fontawesome.com/icons/cart-shopping?f=classic&s=solid)
 - tractor - [font awesome](https://fontawesome.com/icons/tractor?f=classic&s=solid)
 - trolley - [font awesome](https://fontawesome.com/icons/dolly?f=classic&s=solid)
+
+## Screenshots
+
+#### Products Page
+
+![Products Page](/app/public/screen1.png)
