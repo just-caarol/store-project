@@ -18,6 +18,8 @@ The application is also adapted to be opened on electronic devices such as table
 
 #### Products page
 
+![Products Page](/app/public/screen1.png)
+
 At the top of this page there are filters that allow a user to filter products by category, e.g. dairy products, vegetables. There is also a search button that allows a user to search for a specific product by its name.
 
 On Products page a user can also add a particular product to the basket by pressing the "Add to Basket" button.
@@ -25,6 +27,8 @@ On Products page a user can also add a particular product to the basket by press
 Moreover, by clicking on the product picture, a user goes to the page with details of the given product. On that page a user can add a review of the product by clicking "Add a Review" button.
 
 #### Farmers page
+
+![Farmer Page](/app/public/screen4.png)
 
 This page contains a list of farmers who supply the products featured on the site.
 By clicking the "View" button, a user is navigated to a page with detailed information about a specific farmer. That page contains also a list of products from this particular farmer.
@@ -38,11 +42,15 @@ In this app there are two views of shopping cart:
 
 ##### Mini cart
 
+![Mini Cart View](/app/public/screen2.png)
+
 By clicking on the shopping bag icon, a user has access to a mini shopping cart, which contains information such as: product thumbnail, product price, quantity of products, sum prices of all products.
 Within this view a user can make changes on the go like control the number of products in the cart (remove or add products by clicking the plus or minus buttons), remove a given product from the cart or empty the entire cart.
 By clicking the "View Basket" link, a user is navigated to a full-size shopping cart page.
 
 ##### Full-size shopping cart page
+
+![Cart Page](/app/public/screen3.png)
 
 This page contains information about products such as: product thumbnail, product price, price of several pieces of a given product, quantity of products, sum prices of all products.
 A user can control the number of products in the cart by removing or adding products (by clicking the plus or minus buttons), removing a given product from the cart or emptying the entire cart.
@@ -137,9 +145,3 @@ Images and icons were used to create this app only for educational/practice purp
 - shopping cart - [font awesome](https://fontawesome.com/icons/cart-shopping?f=classic&s=solid)
 - tractor - [font awesome](https://fontawesome.com/icons/tractor?f=classic&s=solid)
 - trolley - [font awesome](https://fontawesome.com/icons/dolly?f=classic&s=solid)
-
-## Screenshots
-
-#### Products Page
-
-![Products Page](/app/public/screen1.png)
