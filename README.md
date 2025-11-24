@@ -11,7 +11,7 @@
 
 This app was created with JavaScript - React.js, Vite.js, React Router DOM, JSON Server and CSS3 to put the acquired knowledge into practice and consolidate the use of these technologies and tools.
 
-## Demo
+### Demo
 
 Video demo of the application:
 
