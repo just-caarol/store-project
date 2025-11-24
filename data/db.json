@@ -2,11 +2,11 @@
   "products": [
     {
       "farmerId": 4,
-      "id": 1,
       "name": "Lemons",
       "category": "fruit",
       "price": "16.00",
-      "picture": "/foodPictures/lemon.jpg"
+      "picture": "/foodPictures/lemon.jpg",
+      "id": 1
     },
     {
       "farmerId": 4,
@@ -383,6 +383,13 @@
       "name": "Bill Gates",
       "email": "bill.gates@gatesfoundation.org",
       "body": "This is awesome! Well done."
+    },
+    {
+      "productId": "6",
+      "id": 14,
+      "name": "Carol",
+      "email": "adsdfdssc@yahoo.com",
+      "body": "Nice product, good taste."
     }
   ],
   "categories": [
