@@ -16,7 +16,7 @@ This app was created with JavaScript - React.js, Vite.js, React Router DOM, JSON
 Video demo of the application:
 
 <div align="center">
-<img src="/app/public/store-demo.gif" />
+<img src="/app/public/demo-store.gif" />
 </div>
 
 ### About the app
